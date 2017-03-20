@@ -1,0 +1,25 @@
+{
+  "name": "arc-node_modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Myrmechrislee/node_modules.git"
+  },
+  "keywords": [
+    "Modules",
+    "ARC",
+    "Node",
+    "Nodejs",
+    "Javascript"
+  ],
+  "author": "Christophe Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentertz/scapegoat/issues"
+  }
+}
